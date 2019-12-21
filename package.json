@@ -1,0 +1,45 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@iarna/toml": "^2.2.3",
+    "clone": {
+      "integrity": "sha1-2jCcwmPfFZlMaIypAheco8fNfH4=",
+      "optional": true,
+      "resolved": "https://registry.npmjs.org/clone/-/clone-1.0.4.tgz",
+      "version": "1.0.4"
+    },
+    "console.table": "^0.10.0",
+    "defaults": {
+      "integrity": "sha1-xlYFHpgX2f8I7YgUd/P+QBnz730=",
+      "optional": true,
+      "requires": {
+        "clone": "^1.0.2"
+      },
+      "resolved": "https://registry.npmjs.org/defaults/-/defaults-1.0.3.tgz",
+      "version": "1.0.3"
+    },
+    "easy-table": {
+      "integrity": "sha1-hvmrTBAvA3G3KXuSplHVgkvIy3M=",
+      "requires": {
+        "wcwidth": ">=1.0.1"
+      },
+      "resolved": "https://registry.npmjs.org/easy-table/-/easy-table-1.1.0.tgz",
+      "version": "1.1.0"
+    },
+    "toml": {
+      "integrity": "sha512-y/mWCZinnvxjTKYhJ+pYxwD0mRLVvOtdS2Awbgxln6iEnt4rk0yBxeSBHkGJcPucRiG0e55mwWp+g/05rsrd6w==",
+      "resolved": "https://registry.npmjs.org/toml/-/toml-3.0.0.tgz",
+      "version": "3.0.0"
+    },
+    "wcwidth": {
+      "integrity": "sha1-8LDc+RW8X/FSivrbLA4XtTLaL+g=",
+      "optional": true,
+      "requires": {
+        "defaults": "^1.0.3"
+      },
+      "resolved": "https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz",
+      "version": "1.0.1"
+    }
+  }
+}

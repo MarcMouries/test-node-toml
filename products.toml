@@ -1,0 +1,8 @@
+[[products]]
+name = "Hammer"
+sku = 738_594_937
+
+[[products]]
+name = "Nail"
+sku = 284_758_393
+color = "gray"
